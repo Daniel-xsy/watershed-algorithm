@@ -14,5 +14,5 @@ Before:
 
 After:
 
-<img src="\img\Lenna ws.bmp" style="zoom:50%;" />
+<img src=".\img\Lenna ws.bmp" style="zoom:50%;" />
 
