@@ -14,6 +14,7 @@ Orgin:
 
 Gauss Fillter:
 
+<<<<<<< HEAD
 <img src=".\img\Lenna grey gauss.bmp" style="zoom:50%;" />
 
 Median Filter:
@@ -22,5 +23,7 @@ Median Filter:
 
 Watershed:
 
+=======
+>>>>>>> 5e1adcc97c178fc606678e54926739dedd6a00d7
 <img src=".\img\Lenna ws.bmp" style="zoom:50%;" />
 
