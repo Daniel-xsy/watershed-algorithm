@@ -8,11 +8,19 @@ With pure C
 
  http://dx.doi.org/10.1117/12.24211
 
-Before:
+Orgin:
 
 <img src=".\img\Lenna grey.bmp" style="zoom:50%;" />
 
-After:
+Gauss Fillter:
 
-<img src="\img\Lenna ws.bmp" style="zoom:50%;" />
+<img src=".\img\Lenna grey gauss.bmp" style="zoom:50%;" />
+
+Median Filter:
+
+<img src=".\img\Lenna grey median.bmp" style="zoom:50%;" />
+
+Watershed:
+
+<img src=".\img\Lenna ws.bmp" style="zoom:50%;" />
 
